@@ -2,7 +2,7 @@
 <h1 align="center">Byanajjara Ganesha</h1>
 <h3 align="center">RTL Design & Verification Engineer (Fresher) | Verilog · Pipelining · FPGA</h3>
 <p align="center">
-  B.E. Electronics & Communication Engineering · GCE Hassan, Karnataka · Class of 2025
+  B.E. Electronics & Communication Engineering · GCE Hassan, Karnataka · Class of 2026
 </p>
 
 <p align="center">
