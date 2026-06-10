@@ -34,7 +34,7 @@ Currently deep in a **30-day RTL design challenge** — building and verifying a
 | HDL | Verilog, SystemVerilog |
 | Digital Design | FSM, Pipelining, Datapath Design, Hazard Detection |
 | Verification | Testbench Development, Functional Simulation, Waveform Debugging |
-| Tools | Xilinx ISE, Xilinx Vivado |
+| Tools | Xilinx ISE, Xilinx Vivado | Linux | Verilator | GTKwave | EDA-Playground
 | Hardware | FPGA (Spartan-6) |
 | Programming | C (basic), C++ (basic), Python (basic) |
 
