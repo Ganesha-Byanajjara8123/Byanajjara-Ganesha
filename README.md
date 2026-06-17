@@ -17,7 +17,7 @@
 
 ## About Me
 
-I'm a final-year Electronics & Communication Engineering student at **GCE Hassan, Karnataka**, building a focused career in **RTL Design and Verification** within the semiconductor industry.
+Graduated as a Electronics & Communication Engineering student at **GCE Hassan, Karnataka**, in 2026(may), building a focused career in **RTL Design and Verification** within the semiconductor industry.
 
 I design synthesizable digital hardware in Verilog — from ALUs and FSMs to pipelined CPU datapaths with hazard detection and data forwarding — and verify designs through testbench development and waveform debugging in Xilinx ISE & Vivado.
 
