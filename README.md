@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Xilinx-ISE%20%7C%20Vivado-E24B4A?style=flat-square" />
   <img src="https://img.shields.io/badge/CMOS-VLSI-BA7517?style=flat-square" />
 </p>
-
+ 
 ---
 
 ## About Me
