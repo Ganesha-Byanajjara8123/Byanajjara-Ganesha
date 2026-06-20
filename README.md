@@ -85,6 +85,7 @@ Currently deep in a **30-day RTL design challenge** — building and verifying a
 - Tested 7-segment displays, LCDs, controller boards, and keypad interfaces
 - Hardware debugging using multimeter and oscilloscope
 - Fault identification and board-level validation
+**- Currnetly we're working on 5-stage pinpelined RISC-V ISA (40% is completed)**
 
 ---
 
