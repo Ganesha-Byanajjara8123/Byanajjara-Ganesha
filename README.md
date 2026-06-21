@@ -1,4 +1,4 @@
-
+ 
 <h1 align="center">Byanajjara Ganesha</h1>
 <h3 align="center">RTL Design & Verification Engineer (Fresher) | Verilog · Pipelining · FPGA</h3>
 <p align="center">
