@@ -23,11 +23,10 @@ I design synthesizable digital hardware in Verilog — from ALUs and FSMs to pip
 
 I've completed a **6-month integrated VLSI internship** covering CMOS fundamentals and digital IC design flow, and have hands-on PCB debugging experience from an industry role in Bangalore.
 
-**Currently I am doing:**
-                      -** Working on 5-stage pipelined RISC-V ISA Project under SURE Pro Ed - Integrated VLSI Design as RTL Design Engineer
-                       (Single Cycle Processor is completed)**
-                    **   -Solve HDLBits - Daily to improve - Logic in code, Hardware design, Problem solving skill..ect.
-                       -solve HackeRank-Python Daily - to improve my Python skills**
+Currently I am doing: 1) Working on 5-stage pipelined RISC-V ISA Project under SURE Pro Ed - Integrated VLSI Design as RTL Design Engineer
+                       (Single Cycle Processor is completed).
+                      2) Solve HDLBits - Daily to improve - Logic in code, Hardware design, Problem solving skill..ect.
+                      3)solve HackeRank-Python Daily - to improve my Python skills.
 
    deep in a **30-day RTL design challenge** — building and verifying a new digital design module every single day. - **COMPLETED**
 ---
