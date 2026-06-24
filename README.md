@@ -79,7 +79,7 @@ Currently: 1) Working on 5-stage pipelined RISC-V ISA Project under SURE Pro Ed 
 
 ## Internships
 
-**Integrated VLSI Internship — SURE ProEd** *(Online · 6 months completed of 8-month program)*
+**Integrated VLSI Internship — SURE ProEd** *(Online · 7 months completed of 8-month program)*
 - CMOS VLSI design fundamentals and digital IC design flow
 - RTL module implementation in Verilog with simulation
 - Testbench development and waveform output analysis
