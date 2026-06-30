@@ -147,7 +147,7 @@ Binary-to-BCD, 7-segment driver, transmitter, detector.
 
 # Snake
 
-```text
+
 - uses: Platane/snk@v3
   with:
     # github user name to read the contribution graph from (**required**)
@@ -168,7 +168,6 @@ Binary-to-BCD, 7-segment driver, transmitter, detector.
       dist/github-snake.svg
       dist/github-snake-dark.svg?palette=github-dark
       dist/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9&color_background=#aaaaaa
-```
 
 ---
 
