@@ -143,15 +143,6 @@ Binary-to-BCD, 7-segment driver, transmitter, detector.
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ganesha-Byanajjara8123&theme=tokyo-night"/>
 
----
-
-## Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ganesha-Byanajjara8123/Ganesha-Byanajjara8123/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</p>
----
-
 # Current Focus
 
 ```yaml
