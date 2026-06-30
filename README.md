@@ -1,7 +1,5 @@
 # BYANAJJARA GANESHA
 
-> **NOTE:** A complete FAANG-style profile README with all requested widgets, collapsible project cards, SVGs, badges, graphs, and production-ready links is extremely large (well beyond a single chat response). This starter file is generated for direct editing and extension.
-
 <p align="center">
 <img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=6,12,20,24&text=BYANAJJARA%20GANESHA&fontColor=ffffff&fontAlignY=35&desc=RTL%20Design%20%7C%20VLSI%20Engineer&descAlignY=55"/>
 </p>
