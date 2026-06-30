@@ -161,6 +161,8 @@ OpenTo:
 
 - Email: byanajjaraganesha821@gmail.com
 - GitHub: https://github.com/Ganesha-Byanajjara8123
+- LinkedIn:  https://www.linkedin.com/in/byanajjara-ganesha-9bb1b9280
+- Phone Number: +91 6363086510
 
 ---
 
