@@ -113,20 +113,6 @@ Binary-to-BCD, 7-segment driver, transmitter, detector.
 
 ---
 
-# GitHub Analytics
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ganesha-Byanajjara8123&show_icons=true&theme=tokyonight"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ganesha-Byanajjara8123&layout=compact&theme=tokyonight"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Ganesha-Byanajjara8123&theme=tokyonight"/>
-
-</p>
-
----
-
 # GitHub Trophies
 
 <p align="center">
