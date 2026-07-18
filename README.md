@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=RTL+Design+Engineer;Verilog+%7C+SystemVerilog;RISC-V+Processor+Design;Pipeline+CPU+Development;Open+to+RTL+Design+Roles"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=3000&pause=1000&center=true&vCenter=true&width=900&lines=RTL+Design+Engineer;Verilog+%7C+SystemVerilog;RISC-V+Processor+Design;Open+to+RTL+Design+Roles"/>
 </p>
 
 <p align="center">
